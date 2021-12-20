@@ -1,0 +1,40 @@
+
+2021-12-18 10:16:15.579758 :[Reloader][INFO]: Started loader stoping process
+2021-12-18 10:16:20.133191 :[Reloader][INFO]: Numeric loader is Running with id:94569
+2021-12-18 10:16:20.133416 :[Reloader][INFO]: Sending Email with text 
+2021-12-18 10:16:20 : Reloader Process Failed with unhandled error : name 'time' is not defined
+
+2021-12-18 10:19:56.727314 :[Reloader][INFO]: Started loader stoping process
+2021-12-18 10:20:01.377535 :[Reloader][INFO]: Numeric loader has been stoped
+2021-12-18 10:20:48.602802 :[Reloader][INFO]: Started loader stoping process
+2021-12-18 10:20:53.340160 :[Reloader][INFO]: Numeric loader has been stoped
+2021-12-18 10:21:03.133040 :[Reloader][INFO]: Boolean loader Stoped
+2021-12-18 10:21:05.134739 :[Reloader][INFO]: Starting KWH reloader between : 2021-12-13 00:00:00 to 2021-12-17 17:00:00
+2021-12-18 10:23:11.236603 :[Reloader][INFO]: Starting RH reloader between : 2021-12-13 00:00:00 to 2021-12-17 17:00:00
+2021-12-18 10:30:12.658877 :[Reloader][INFO]: Starting Temperature reloader between : 2021-12-13 00:00:00 to 2021-12-17 17:00:00
+2021-12-18 10:38:27.598019 :[Reloader][INFO]: Starting loader between : 2021-12-13 00:00:00 to 2021-12-17 17:00:00
+2021-12-20 04:24:36.045881 :[Reloader][INFO]: Started loader stoping process
+2021-12-20 04:24:39.166417 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:24:47.286553 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:24:55.408190 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:25:03.518876 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:25:11.630108 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:25:19.781027 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:25:27.877497 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:25:35.932619 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:25:44.084284 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:25:52.219039 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:26:00.442066 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:26:08.744149 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:26:16.883870 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:26:24.977348 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:26:33.152170 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:26:41.212039 :[Reloader][INFO]: Numeric loader is Running with id:125077
+2021-12-20 04:26:49.381251 :[Reloader][INFO]: Numeric loader has been stoped
+2021-12-20 04:26:57.480878 :[Reloader][INFO]: Boolean loader Stoped
+2021-12-20 04:26:59.482833 :[Reloader][INFO]: Starting KWH reloader between : 2021-12-13 00:00:00 to 2021-12-17 17:00:00
+2021-12-20 04:29:15.782754 :[Reloader][INFO]: Starting RH reloader between : 2021-12-13 00:00:00 to 2021-12-17 17:00:00
+2021-12-20 04:36:03.849056 :[Reloader][INFO]: Starting Temperature reloader between : 2021-12-13 00:00:00 to 2021-12-17 17:00:00
+2021-12-20 04:44:27.032060 :[Reloader][INFO]: Starting loader
+2021-12-20 04:46:02.053491 :[Reloader][INFO]: Sending Email with text 
+2021-12-20 04:46:02 : loader Process completed successfully
